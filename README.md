@@ -8,6 +8,11 @@ I'm an undergraduate at Carnegie Mellon University studying **Information System
 - **Fall Detection with CNNs** — Built a ResNet-based pipeline for human fall detection in video using transfer learning (built 2023).
 - **Student Sickness Forecasting** — Forecasted illness trends using 10 years of school absence data and Meta’s Prophet model (built 2023).
 
+## 🧠 Notable Coursework
+
+- **CMU 15-213 Systems Labs** — - Completed all advanced systems programming projects from CMU’s 15-213, including custom memory allocators, concurrent HTTP proxies, and exploit labs (available upon request).
+
+
 ## 💻 Strengths
 
 - Strong in applied ML, Computer Vision, and building Infrastructure.
