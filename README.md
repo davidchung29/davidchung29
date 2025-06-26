@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David
 
-I'm an undergraduate at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence**, passionate about building reliable, real-world systems centered around **Computer Vision** and **Software Engineering.** Currently, I'm an SDE Intern at Amazon's Payments team.
+I'm an undergraduate at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence**, passionate about building reliable, real-world systems centered around **Computer Vision** and **Software Engineering.** Currently, I'm an SDE Intern at **Amazon's** Payments team.
 
 ## 🚀 Projects
 
