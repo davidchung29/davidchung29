@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm David Chung
 
-<!--
-**davidchung29/davidchung29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence**, passionate about building reliable, real-world systems centered around **Computer Vision** and **Software Engineering.** Currently, I'm an SDE Intern at Amazon's Payments team.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **MyEyes** — Developed an iOS app that uses OCR and LiDAR to provide real-time scene understanding for the blind (built 2025).
+- **Fall Detection with CNNs** — Built a ResNet-based pipeline for human fall detection in video using transfer learning (built 2023).
+- **Student Sickness Forecasting** — Forecasted illness trends using 10 years of school absence data and Meta’s Prophet model (built 2023).
+
+## 💻 Strengths
+
+- Strong in applied ML, Computer Vision, and building Infrastructure.
+- Experienced with performance engineering (e.g., multithreading, real-time processing)  
+- Research-backed work mentored by UC Riverside faculty and engineers  
+- Able to deliver clean, user-facing tools from ML core to frontend
+
+## 📫 Let's Connect
+
+Check out my pinned projects or reach out on [LinkedIn](https://www.linkedin.com/in/davidchung29). You can reach me at (dichung@andrew.cmu.edu)
