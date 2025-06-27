@@ -15,3 +15,5 @@ I'm a sophomore at Carnegie Mellon University studying **Information Systems** a
 ## 📫 Let's Connect
 
 Check out my pinned projects or reach out on [LinkedIn](https://www.linkedin.com/in/davidchung29). You can also reach me at (dichung@andrew.cmu.edu)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidchung29&layout=compact&theme=default)
