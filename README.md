@@ -10,7 +10,7 @@ I'm a sophomore at Carnegie Mellon University studying **Information Systems** a
 
 ## 🧠 Notable Coursework
 
-- **CMU 15-213 Systems Labs** — - Completed all advanced systems programming projects from CMU’s 15-213, including custom memory allocators, concurrent HTTP proxies, and exploit labs (available upon request).
+- **CMU 15-213 Systems Labs** — Completed all advanced systems programming projects from CMU’s 15-213, including custom memory allocators, concurrent HTTP proxies, and exploit labs (available upon request).
 
 ## 📫 Let's Connect
 
