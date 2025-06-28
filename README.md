@@ -7,7 +7,7 @@ I'm a sophomore at Carnegie Mellon University studying **Information Systems** a
 - **MyEyes** — iOS app that uses CV and LiDAR to provide real-time scene understanding for the blind (built 2025).
 - **Fall Detection with CNNs** — ResNet-based pipeline for human fall detection using transfer learning (built 2023).
 - **Student Sickness Forecasting** — Forecasted illness trends using 10 years of school data and Meta’s prophet model (built 2023).
-- **MyEyes** - coming soon... (building MVP)
+- **Mockly** - coming soon... (building MVP)
 
 ## 🧠 Notable Coursework
 
