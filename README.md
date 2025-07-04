@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David
+k# 👋 Hi, I'm David
 
 I'm a sophomore at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence.** Currently, I'm an SDE Intern in **Amazon's** Digital Payments team.
 
@@ -15,5 +15,5 @@ I'm a sophomore at Carnegie Mellon University studying **Information Systems** a
 
 ## 📫 Let's Connect
 
-Check out my pinned projects or reach out on [LinkedIn](https://www.linkedin.com/in/davidchung29). You can also reach me at (dichung@andrew.cmu.edu)
+Reach out on [LinkedIn](https://www.linkedin.com/in/david-chung-00b04a199/). You can also reach me at (dichung@andrew.cmu.edu)
 
