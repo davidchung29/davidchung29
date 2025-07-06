@@ -1,4 +1,4 @@
-k# 👋 Hi, I'm David
+👋 Hi, I'm David
 
 I'm a sophomore at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence.** Currently, I'm an SDE Intern in **Amazon's** Digital Payments team.
 
