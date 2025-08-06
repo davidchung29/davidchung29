@@ -15,8 +15,8 @@ I'm a sophomore at Carnegie Mellon University studying **Information Systems** a
 
 ### 🧑‍🔬 Research Projects
 
-- **Fall Detection with CNNs** — ResNet-based pipeline for human fall detection using transfer learning (built 2023)
-- **Student Sickness Forecasting** — Forecasted illness trends using 10 years of school data and Meta’s prophet model (built 2023)
+- **RNN Fall Detector** — ResNet-based pipeline for human fall detection using transfer learning (built 2023)
+- **Student Sickness Forecasting** — Forecasted illness trends using 10 years of Riverside Unified School District data and Meta’s prophet model (built 2023)
 
 ### 🧠 Class Projects
 
