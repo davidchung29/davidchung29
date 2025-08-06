@@ -6,7 +6,7 @@ I'm a sophomore at Carnegie Mellon University studying **Information Systems** a
 
 - **Matrix** - A datawarehousing solution using OpenSearch for an Amazon digital payments team (productionized in 2025)
 
- <sub><sup>FYI, these projects are not opensource, and the codebase is not available to showcase. If you are a recruiter, reach out and I can explain the project and tech stack</sup></sub>
+ <sub><sup>FYI, this projects are not opensource, and the codebase is not available to showcase. If you are a recruiter, reach out and I can explain the project and tech stack</sup></sub>
 
 ### 🚀 Personal Projects
 
