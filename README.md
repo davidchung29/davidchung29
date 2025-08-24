@@ -4,7 +4,7 @@ I'm a student at Carnegie Mellon University studying **Information Systems** and
 
 ### 🏭 Industry Projects
 
-- **Matrix** - A datawarehousing solution using OpenSearch for an Amazon digital payments team indexing 2B+ docs in real time (productionized in 2025)
+- **Matrix** - An internal OpenSearch data warehousing infrastructure for Amazon's Digital Payments team, indexing 2B+ docs in real time (productionized in 2025)
 
  <sub><sup>FYI, this projects are not opensource, and the codebase is not available to showcase. If you are a recruiter, reach out and I can explain the project and tech stack</sup></sub>
 
