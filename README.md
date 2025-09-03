@@ -10,7 +10,7 @@ I'm a student at Carnegie Mellon University studying **Information Systems** and
 
 ### 🚀 Personal Projects
 
-- **Mockly** - Web-based app using CV and fine-tuned LLM to evaluate behavioral interviews (currently building mvp...)
+- **Mockly** - Web-based app using CV and fine-tuned LLM to evaluate behavioral interviews MVP -> [http://mockly.pro/](http://mockly.pro/)
 - **MyEyes** — iOS app that uses CV and LiDAR to provide real-time scene understanding for the blind (built 2025)
 
 ### 🧑‍🔬 Research Projects
