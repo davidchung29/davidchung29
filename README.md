@@ -1,12 +1,12 @@
 👋 Hi, I'm David
 
-I'm a student at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence.** Currently, I'm an SDE Intern in **Amazon's** Digital Payments team.
+I'm a student at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence.** Currently, I'm an **iOS & AI engineer intern at ValueMate (YCx25)**
 
-### 🏭 Industry Projects
+### 🏭 Industry
 
 - **Matrix** - An internal OpenSearch data warehousing infrastructure for Amazon's Digital Payments team, indexing 2B+ docs in real time (productionized in 2025)
 
- <sub><sup>FYI, this projects are not opensource, and the codebase is not available to showcase. If you are a recruiter, reach out and I can explain the project and tech stack</sup></sub>
+ <sub><sup>FYI, this project is not open source, and the codebase is unavailble to showcase. If you are a recruiter, reach out and I can explain the project and tech stack</sup></sub>
 
 ### 🚀 Personal Projects
 
