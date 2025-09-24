@@ -10,7 +10,7 @@ I'm a student at Carnegie Mellon University studying **Information Systems** and
  <sub><sup>FYI, this project is not open source, and the codebase is unavailble to showcase. If you are a recruiter, reach out and I can explain the project and tech stack</sup></sub>
 
 ### Personal
-- **Medicly** - AI-powered platform for physical therapy, connecting doctors to patients in 10 minutes.** Won CMUHacks 2025!** Demo -> [medicly.dev](https://medicly.dev/)
+- **Medicly** - AI-powered platform for physical therapy, connecting doctors to patients in 10 minutes. *Won CMUHacks 2025!* Demo -> [medicly.dev](https://medicly.dev/)
 - **Mockly** - Web-based app using CV and fine-tuned LLM to evaluate behavioral interviews MVP -> [mockly.pro](http://mockly.pro/)
 - **MyEyes** — iOS app that uses CV and LiDAR to provide real-time scene understanding for the blind (built 2025)
 
