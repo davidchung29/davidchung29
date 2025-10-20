@@ -1,6 +1,6 @@
 👋 Hi, I'm David
 
-I'm a student at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence.** Currently, I'm an **AI engineer intern at ValueMate (YCx25)**
+I'm a student at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence.** Currently, I'm an **AI software engineer intern at ValueMate (YCx25)**
 
 ### Work 
 
@@ -15,8 +15,8 @@ I'm a student at Carnegie Mellon University studying **Information Systems** and
 - **Mockly** - Web-based app using CV and fine-tuned LLM to evaluate behavioral interviews MVP -> [mockly.pro](http://mockly.pro/)
 
 ### Research Projects
-- **LLM-based LO analysis** - LLM pipeline with embeddings and clustering to identify learning objectives from course texts for automated assessment [CMU Accenture AI Center of Excellence/TEEL Labs]
-- **RNN Fall Detector** — ResNet-based pipeline for human fall detection using transfer learning (built 2023) [Dr. Roy-Chowdhury - University of California, Riverside]
+- **LLM-based LO analysis [CMU ACE-AI/TEEL Labs]** - LLM pipeline with embeddings and clustering to identify learning objectives from course texts for automated assessment 
+- **RNN Fall Detector Dr. Roy-Chowdhury @ UCR]** — ResNet-based pipeline for human fall detection using transfer learning (built 2023) 
 
 ## 📫 Let's Connect
 
