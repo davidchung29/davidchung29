@@ -14,7 +14,7 @@ I'm a student at Carnegie Mellon University studying **Information Systems** and
 - **Yumi** - Social network for food where AI agents vibe-match your food taste with friends to unlock the perfect group meal, every time. *Won HackHarvard 2025 3rd!* Try it -> [Yumi](https://findwithyumi.netlify.app/)
 - **Mockly** - Web-based app using CV and fine-tuned LLM to evaluate behavioral interviews MVP -> [mockly.pro](http://mockly.pro/)
 
-### Research Projects
+### Research
 - **LLM-based LO analysis [CMU ACE-AI/TEEL Labs]** - LLM pipeline with embeddings and clustering to identify learning objectives from course texts for automated assessment 
 - **RNN Fall Detector Dr. Roy-Chowdhury @ UCR]** — ResNet-based pipeline for human fall detection using transfer learning (built 2023) 
 
