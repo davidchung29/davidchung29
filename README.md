@@ -1,13 +1,13 @@
 👋 Hi, I'm David
 
-I'm a student at Carnegie Mellon University studying **Information Systems** and **Artificial Intelligence.** Currently, I'm an **AI software engineer intern at ValueMate (YCx25)**
+I'm a student at Carnegie Mellon University studying **Information Systems** and **Computer Science.**
 
 ### Work 
 
 - **Matrix (Amazon)** - An internal OpenSearch data warehousing infrastructure for Amazon's Digital Payments team, indexing 2B+ docs in real time (productionized in 2025)
 - **Floor Plan Editor + AI Form Filler (ValueMate)** - iOS floor plan editor for home valuation, and AI Form Filler for filing legal appraisal documents. 
 
- <sub><sup>FYI, these projects are not open source, so the codebases are unavailable for showcasing. If you are a recruiter, reach out and I can explain the project and tech stack</sup></sub>
+ <sub><sup>FYI, these projects are not open source, so the codebases are unavailable for showcasing. If you are a recruiter, reach out and I can explain the project</sup></sub>
 
 ### Personal
 - **Medicly** - AI-powered platform for physical therapy, connecting doctors to patients in 10 minutes. *Won CMUHacks 2025 Grand Prize!* Demo -> [medicly.dev](https://medicly.dev/)
