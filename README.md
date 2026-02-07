@@ -15,7 +15,6 @@ I'm a student at Carnegie Mellon University studying **Information Systems** and
 - **Medicly** - AI-powered platform for physical therapy, connecting doctors to patients in 10 minutes. *1st @ HackCMU* Demo -> [medicly.dev](https://medicly.dev/)
 - **Healthier** - iOS app + AI dashboard for senior care. *2nd @ Nexhacks* Demo -> [Healthier](https://devpost.com/software/healthier-w0baus?_gl=1*1e51wh5*_gcl_au*MTU3NzE5NTczNS4xNzYxNDY0ODQ2*_ga*MTgyODMxMjEzNS4xNzYxNDY0ODQ3*_ga_0YHJK3Y10M*czE3NjkwMzAwMDkkbzI3JGcxJHQxNzY5MDMwMDQ5JGoyMCRsMCRoMA..)
 - **Yumi** - Social network for food where AI agents vibe-match your food taste with friends to unlock the perfect group meal, every time. *3rd @ HackHarvard* Try it -> [Yumi](https://findwithyumi.netlify.app/)
-- **Mockly** - Web-based app using CV and fine-tuned LLM to evaluate behavioral interviews MVP -> [mockly.pro](http://mockly.pro/)
 
 ### Research
 - **LLM-based LO analysis [CMU ACE-AI/TEEL Labs]** - LLM pipeline with embeddings and clustering to identify learning objectives from course texts for automated assessment 
